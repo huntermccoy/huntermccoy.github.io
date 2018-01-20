@@ -1,12 +1,11 @@
-Alpha by HTML5 UP
+Astral by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
-A clean, super minimal responsive template geared towards startups, app devs, and other
-dedicated folks working tirelessly to launch their products. Includes a landing page,
-generic page, contact page, and a page with a whole mess of pre-styled elements (something
-new I'm trying out). Sass sources are also included.
+First of its kind on H5U! Astral features a flat, minimalistic design, a fully animated
+interface (with noscript fallbacks), and styling for all basic page elements (including
+blockquotes, tables and lists). Enjoy!
 
 Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
 you can use for pretty much whatever.
@@ -31,8 +30,7 @@ Credits:
 
 	Other:
 		jQuery (jquery.com)
-		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-		CSS3 Pie (css3pie.com)
+		html5shiv.js (@afarkas @jdalton @jon_neal @rem)v
 		background-size polyfill (github.com/louisremi)
-		Respond.js (j.mp/respondjs)
+		Repond.js (j.mp/respondjs)
 		Skel (skel.io)
