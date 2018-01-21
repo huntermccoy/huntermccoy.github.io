@@ -2,7 +2,7 @@
 title: 肖恩孟的自留地 # 你的博客名字，可以定义修订
 header-img: "img/orange.jpg"
 tagline: "cn"  
-description: "emmmm..女朋友挑的封面颜色"  # 一句话描述你的博客
+description: "一片纯净的自留地"  # 一句话描述你的博客
 baseurl: ""
 url: "http://shaunmc.top"  # 此处填写你的博客地址 
 
@@ -18,7 +18,7 @@ favicon: img/mc.jpg # 浏览器地址栏小图标，可自定义更改
 
 douban_username:  # 你的豆瓣id
 twitter_username: 
-github_username: 
+github_username: huntermccoy
 facebook_username: 
 weibo_username: 
 zhihu_username: 
