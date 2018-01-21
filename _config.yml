@@ -1,20 +1,20 @@
 # Site settings
-title: 博客名字 # 你的博客名字，可以定义修订
-header-img: "img/green.jpg"
+title: 肖恩孟的自留地 # 你的博客名字，可以定义修订
+header-img: "img/orange.jpg"
 tagline: "cn"  
-description: "这是我的博客"  # 一句话描述你的博客
+description: "emmmm..女朋友挑的封面颜色"  # 一句话描述你的博客
 baseurl: ""
-url: "http://cnfeat"  # 此处填写你的博客地址 
+url: "http://shaunmc.top"  # 此处填写你的博客地址 
 
 # About/contact
 owner: 
-  name: "作者名字" # 填写作者信息：名字
-  email: X@gmail.com # 填写作者信息：邮箱
-  bio: "你的博客描述" # 填写作者信息：博客描述
+  name: "Shaun Meng" # 填写作者信息：名字
+  email: mccoymeng@foxmail.com # 填写作者信息：邮箱
+  bio: "自留地" # 填写作者信息：博客描述
 
 # Data
-gavatar: img/favicon.png # 浏览器地址栏小图标，可自定义更改
-favicon: img/favicon.png # 浏览器地址栏小图标，可自定义更改
+gavatar: img/mc.jpg # 浏览器地址栏小图标，可自定义更改
+favicon: img/mc.jpg # 浏览器地址栏小图标，可自定义更改
 
 douban_username:  # 你的豆瓣id
 twitter_username: 
@@ -43,8 +43,8 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "你的名字" # 你的名字
-      header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
+      author: "Shaun Meng" # 你的名字
+      header-img: "img/zhihu.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
